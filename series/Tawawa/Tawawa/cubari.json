@@ -1,0 +1,577 @@
+{
+    "$schema": "../../../schema/cubari/gistSource.schema.json",
+    "title": "Getsuyoubi no Tawawa! - Twitter Webcomic",
+    "description": "Getsuyoubi no Tawawa, also known as Tawawa on Monday. A blue-tinted series about the daily lives of beautiful, well-endowed girls. The branches bent low [were heavy] with fruit. Tags: Suggestive, Romance, Office Workers, School Life, Slice of Life",
+    "artist": "Himura Kiseki",
+    "author": "Himura Kiseki",
+    "cover": "https://mangadex.org/covers/7a781b6f-6d4f-4169-99f1-34d22cdc00d5/4f64dbc9-e142-40e5-b300-cc5eb8283789.jpg",
+    "chapters": {
+        "1": {
+            "title": "Tawawa on Monday 301 \"Wow, My dad and mom appeared in the magazine\"",
+            "groups": {
+                "Tawawa": [
+                    "https://pbs.twimg.com/media/EndvX81VgAAf6bm?format=png&name=orig"
+                ]
+            },
+            "last_updated": 1606119076
+        },
+        "2": {
+            "title": "Tawawa on Monday 299",
+            "groups": {
+                "Tawawa": [
+                    "https://pbs.twimg.com/media/EmWN9NbVgAAo6eV?format=png&name=orig"
+                ]
+            },
+            "last_updated": 1605421027
+        },
+        "3": {
+            "title": "Tawawa on Monday 300 \"What are you reading?\"",
+            "groups": {
+                "Tawawa": [
+                    "https://pbs.twimg.com/media/Em5ll68VgAAqWrj?format=png&name=orig"
+                ]
+            },
+            "last_updated": 1606118566
+        },
+        "4": {
+            "title": "Tawawa on Monday 356",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/0diu8ks5p9581.png"
+                ]
+            },
+            "last_updated": 1639382778
+        },
+        "5": {
+            "title": "Tawawa on Monday 355",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/nvmhy25iov381.png"
+                ]
+            },
+            "last_updated": 1638777212
+        },
+        "6": {
+            "title": "Tawawa on Monday 360",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/ru4myku3gta81.png"
+                ]
+            },
+            "last_updated": 1641801110
+        },
+        "7": {
+            "title": "Tawawa on Monday 358",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/5d9p50c432881.png"
+                ]
+            },
+            "last_updated": 1640598161
+        },
+        "8": {
+            "title": "Tawawa on Monday 359",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/ach8hkl7jf981.png"
+                ]
+            },
+            "last_updated": 1641196810
+        },
+        "9": {
+            "title": "Tawawa on Monday 362",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/kwg3f9dufld81.png"
+                ]
+            },
+            "last_updated": 1643011711
+        },
+        "10": {
+            "title": "Tawawa on Monday 361",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/epechtq5b7c81.png"
+                ]
+            },
+            "last_updated": 1642404791
+        },
+        "11": {
+            "title": "Tawawa on Monday 366",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/vebaphhhy4j81.png"
+                ]
+            },
+            "last_updated": 1645427252
+        },
+        "12": {
+            "title": "Tawawa on Monday 365",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/jh4rv0gmarh81.png"
+                ]
+            },
+            "last_updated": 1644825989
+        },
+        "13": {
+            "title": "Tawawa on Monday 363",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/wxoxv8u8gze81.png"
+                ]
+            },
+            "last_updated": 1643617191
+        },
+        "14": {
+            "title": "Tawawa on Monday 368",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/zkw069fxzwl81.png"
+                ]
+            },
+            "last_updated": 1646638426
+        },
+        "15": {
+            "title": "Tawawa on Monday 367",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/apkvvfj04jk81.png"
+                ]
+            },
+            "last_updated": 1646034455
+        },
+        "16": {
+            "title": "Tawawa on Monday 370",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/emphfg5vroo81.png"
+                ]
+            },
+            "last_updated": 1647846403
+        },
+        "17": {
+            "title": "Tawawa on Monday 364",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/ayykzpn89dg81.png"
+                ]
+            },
+            "last_updated": 1644220180
+        },
+        "18": {
+            "title": "Tawawa on Monday 369",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/vvmsnycmyan81.png"
+                ]
+            },
+            "last_updated": 1647243330
+        },
+        "19": {
+            "title": "Tawawa on Monday 371",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/xvcwgwa9f3q81.png"
+                ]
+            },
+            "last_updated": 1648459615
+        },
+        "20": {
+            "title": "Tawawa on Monday 372",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/kw69nrv4jgr81.png"
+                ]
+            },
+            "last_updated": 1649054156
+        },
+        "21": {
+            "title": "Tawawa on Monday 376",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/wj0cbxsb30x81.png"
+                ]
+            },
+            "last_updated": 1651470219
+        },
+        "22": {
+            "title": "Tawawa on Monday 373",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/s7m3kh94hus81.png"
+                ]
+            },
+            "last_updated": 1649658822
+        },
+        "23": {
+            "title": "Tawawa on Monday 378",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/owerv7y09sz81.png"
+                ]
+            },
+            "last_updated": 1652682823
+        },
+        "24": {
+            "title": "Tawawa on Monday 374",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/3e7fgdhnp8u81.png"
+                ]
+            },
+            "last_updated": 1650267037
+        },
+        "25": {
+            "title": "Tawawa on Monday 377",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/ug449fek0ey81.png"
+                ]
+            },
+            "last_updated": 1652074634
+        },
+        "26": {
+            "title": "Tawawa on Monday 381",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/mec4u18u4y391.png"
+                ]
+            },
+            "last_updated": 1654497449
+        },
+        "27": {
+            "title": "Tawawa on Monday 383",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/p6e48490zp691.png"
+                ]
+            },
+            "last_updated": 1655706177
+        },
+        "28": {
+            "title": "Tawawa on Monday 382",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/m2n2o102qb591.png"
+                ]
+            },
+            "last_updated": 1655097822
+        },
+        "29": {
+            "title": "Tawawa on Monday 380",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/1ltnt7nu5k291.png"
+                ]
+            },
+            "last_updated": 1653892445
+        },
+        "30": {
+            "title": "Tawawa on Monday 384",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/1e1b8mr804891.png"
+                ]
+            },
+            "last_updated": 1656311937
+        },
+        "31": {
+            "title": "Tawawa on Monday 379",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/gqj48xkt66191.png"
+                ]
+            },
+            "last_updated": 1653287427
+        },
+        "32": {
+            "title": "Tawawa on Monday 386",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/fjotg75z8wa91.png"
+                ]
+            },
+            "last_updated": 1657525563
+        },
+        "33": {
+            "title": "Tawawa on Monday 385",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/9hj2n9q9ki991.png"
+                ]
+            },
+            "last_updated": 1656924017
+        },
+        "34": {
+            "title": "Tawawa on Monday 387",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/old6ecp2mac91.png"
+                ]
+            },
+            "last_updated": 1658135341
+        },
+        "35": {
+            "title": "Tawawa on Monday 388",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/8af7k1vj1od91.png"
+                ]
+            },
+            "last_updated": 1658733755
+        },
+        "36": {
+            "title": "Tawawa on Monday 390",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/f3x793oapgg91.png"
+                ]
+            },
+            "last_updated": 1659952434
+        },
+        "37": {
+            "title": "Tawawa on Monday 389",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/1qek3p7fx2f91.png"
+                ]
+            },
+            "last_updated": 1659349840
+        },
+        "38": {
+            "title": "Tawawa on Monday 392",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/gz5ckms0r7j91.png"
+                ]
+            },
+            "last_updated": 1661151592
+        },
+        "39": {
+            "title": "Tawawa on Momday 391",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/ed5yzy5c3uh91.png"
+                ]
+            },
+            "last_updated": 1660550390
+        },
+        "40": {
+            "title": "Tawawa on Monday 393",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/x0wt7fcfklk91.png"
+                ]
+            },
+            "last_updated": 1661754718
+        },
+        "41": {
+            "title": "Tawawa on Monday 394",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/c7g2sf9irzl91.png"
+                ]
+            },
+            "last_updated": 1662362444
+        },
+        "42": {
+            "title": "Tawawa on Monday 395",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/3uhvzkqrudn91.png"
+                ]
+            },
+            "last_updated": 1662968886
+        },
+        "43": {
+            "title": "Tawawa on Monday 396",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/u7mwkgv25so91.png"
+                ]
+            },
+            "last_updated": 1663577697
+        },
+        "44": {
+            "title": "Tawawa on Monday 397",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/d5stryufc5q91.png"
+                ]
+            },
+            "last_updated": 1664173412
+        },
+        "45": {
+            "title": "Tawawa on Monday 399",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/7xe98poabxs91.png"
+                ]
+            },
+            "last_updated": 1665383744
+        },
+        "46": {
+            "title": "Tawawa on Monday 401",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/y9dus7x1qqv91.png"
+                ]
+            },
+            "last_updated": 1666611474
+        },
+        "47": {
+            "title": "Tawawa on Monday 400",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/vln73jb13bu91.png"
+                ]
+            },
+            "last_updated": 1665986282
+        },
+        "48": {
+            "title": "Tawawa on Monday 402",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/xj5hs687q2x91.png"
+                ]
+            },
+            "last_updated": 1667192653
+        },
+        "49": {
+            "title": "Tawawa Weekly 403 \"Valley Sunbathing\"",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/f301swyomgy91.png"
+                ]
+            },
+            "last_updated": 1667796848
+        },
+        "50": {
+            "title": "Tawawa on Monday 398",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/a8ldbgb73jr91.png"
+                ]
+            },
+            "last_updated": 1664775648
+        },
+        "51": {
+            "title": "Tawawa on Monday 405",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/ipc9789pz81a1.png"
+                ]
+            },
+            "last_updated": 1669011883
+        },
+        "52": {
+            "title": "Tawawa on Monday 406",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/sxpdxp2van2a1.png"
+                ]
+            },
+            "last_updated": 1669620981
+        },
+        "53": {
+            "title": "Tawawa on Monday 408",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/krej68xz0f5a1.png"
+                ]
+            },
+            "last_updated": 1670828351
+        },
+        "54": {
+            "title": "Tawawa on Monday 409",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/uqzb9a5bys6a1.png"
+                ]
+            },
+            "last_updated": 1671432792
+        },
+        "55": {
+            "title": "Tawawa on Monday 412",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/9ockzglc5xaa1.png"
+                ]
+            },
+            "last_updated": 1673226980
+        },
+        "56": {
+            "title": "Tawawa on Monday 413",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/3wscgx1zcbca1.png"
+                ]
+            },
+            "last_updated": 1673834929
+        },
+        "57": {
+            "title": "Tawawa on Monday 417",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/01ymw8ce0vha1.png"
+                ]
+            },
+            "last_updated": 1676252037
+        },
+        "58": {
+            "title": "Tawawa on Monday 415",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/8u15o12nx2fa1.jpg"
+                ]
+            },
+            "last_updated": 1675040425
+        },
+        "59": {
+            "title": "Tawawa on Monday 414",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/hfk3pp473pda1.png"
+                ]
+            },
+            "last_updated": 1674436945
+        },
+        "60": {
+            "title": "Tawawa on Monday 418",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/ejrv0rtlmaja1.jpg"
+                ]
+            },
+            "last_updated": 1676858957
+        },
+        "61": {
+            "title": "Morning Monday Offering 419 \u201cTelekinesis\u201d",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/7h7wh8zqooka1.jpg"
+                ]
+            },
+            "last_updated": 1677465023
+        },
+        "62": {
+            "title": "Tawawa on Monday 416",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/ppps3eqaygga1.jpg"
+                ]
+            },
+            "last_updated": 1675645986
+        },
+        "63": {
+            "title": "Morning Monday Offering 420",
+            "groups": {
+                "Tawawa": [
+                    "https://i.redd.it/obxxquw2l1ma1.png"
+                ]
+            },
+            "last_updated": 1678075028
+        }
+    }
+}
