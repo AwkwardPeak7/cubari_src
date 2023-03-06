@@ -44,7 +44,7 @@ for n, e in enumerate(entries, start=1):
 
 cubari = {
     "$schema": "../../../schema/cubari/gistSource.schema.json",
-    "title": "Getsuyoubi no Tawawa! - Twitter Webcomic",
+    "title": "Getsuyoubi no Tawawa! - Weekly Edition",
     "description": "Getsuyoubi no Tawawa, also known as Tawawa on Monday. A blue-tinted series about the daily lives of beautiful, well-endowed girls. The branches bent low [were heavy] with fruit. Tags: Suggestive, Romance, Office Workers, School Life, Slice of Life",
     "artist": "Himura Kiseki",
     "author": "Himura Kiseki",
