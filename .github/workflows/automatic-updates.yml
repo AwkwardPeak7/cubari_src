@@ -14,22 +14,12 @@ jobs:
     - name: Install packages
       run: |
         sudo apt-get update
-        sudo apt-get install -y --no-install-recommends jq python3-requests
+        sudo apt-get install -y --no-install-recommends python3-requests
 
     - name: Checkout repo
       uses: actions/checkout@v3
       with:
         fetch-depth: 0
-
-    - name: Checkout twint
-      uses: actions/checkout@v3
-      with:
-        repository: woluxwolu/twint
-        path: twint
-
-    - name: Install twint
-      run: pip3 install . -r requirements.txt
-      working-directory: twint
 
     - name: Run update script
       run: ./update_series.sh
